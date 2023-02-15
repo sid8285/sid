@@ -1,2 +1,2 @@
-# lab_assignment5.c
+# lab_assignment5
 CS1
