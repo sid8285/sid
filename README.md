@@ -1,5 +1,4 @@
 # lab_assignment5
-CS1
+//CS1
 
 
-printf("HI");
